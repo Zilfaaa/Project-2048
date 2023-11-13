@@ -12,5 +12,5 @@ Afficher le score qui correspond au pseudo
 
 Faire un classement du score le plus grand au plus petit
 
-Afficher le classement
+Afficher le classement 
 
