@@ -1,1 +1,3 @@
 PROJET 2048
+
+Partage des scores sur les reseaux sociaux
