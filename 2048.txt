@@ -1,4 +1,4 @@
 PROJET 2048
 
-Modifier le theme musical 
+Modifier le thème musical 
 
