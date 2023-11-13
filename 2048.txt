@@ -1,1 +1,3 @@
 PROJET 2048
+
+Fin de la partie si la grille est pleine
