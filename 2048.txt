@@ -8,16 +8,29 @@ test
 ---------------------------------
 Faire l'appel d'un pseudo
 
+
 Afficher le score qui correspond au pseudo
+
 
 Faire un classement du score le plus grand au plus petit
 
+
 Afficher le classement
------------------------------------------------------------
-Recuperer le pseudo qui a été ajouté
 
-Le stocker dans le serveur
 
-Faire un lien entre pseudo et score
+entrer un pseudo
 
-stocker le score qui correspond au bon pseudo
+l'enregistrer dans le serveur
+
+test
+---------------------------------
+Faire l'appel d'un pseudo
+
+
+Afficher le score qui correspond au pseudo
+
+
+Faire un classement du score le plus grand au plus petit
+
+
+Afficher le classement
