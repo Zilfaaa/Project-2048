@@ -7,3 +7,5 @@ Framework ajouté
 Tuiles créées 
 
 Mouvements OK
+
+Téléphone résolu
