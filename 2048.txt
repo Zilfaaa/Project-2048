@@ -4,6 +4,7 @@ entrer un pseudo
 
 l'enregistrer dans le serveur
 
+test
 ---------------------------------
 Faire l'appel d'un pseudo
 
