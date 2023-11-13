@@ -1,1 +1,3 @@
 PROJET 2048
+
+addition du numéro des tuiles
