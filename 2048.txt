@@ -4,7 +4,6 @@ entrer un pseudo
 
 l'enregistrer dans le serveur
 
-test
 ---------------------------------
 Faire l'appel d'un pseudo
 
@@ -14,10 +13,11 @@ Faire un classement du score le plus grand au plus petit
 
 Afficher le classement
 -----------------------------------------------------------
-Recuperer le pseudo qui a été ajouté 
+Recuperer le pseudo qui a été ajouté
 
-Le stocker dans le serveur 
+Le stocker dans le serveur
 
 Faire un lien entre pseudo et score
 
 stocker le score qui correspond au bon pseudo
+
