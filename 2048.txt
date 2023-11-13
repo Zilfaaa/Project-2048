@@ -4,6 +4,7 @@ entrer un pseudo
 
 l'enregistrer dans le serveur
 
+test
 ---------------------------------
 Faire l'appel d'un pseudo
 
@@ -12,4 +13,4 @@ Afficher le score qui correspond au pseudo
 Faire un classement du score le plus grand au plus petit
 
 Afficher le classement 
- 
+
