@@ -1,6 +1,4 @@
 PROJET 2048
-
-<<<<<<< HEAD
 Grille créée
 
 Framework ajouté
@@ -40,5 +38,4 @@ Le stocker dans le serveur
 Faire un lien entre pseudo et score
 
 stocker le score qui correspond au bon pseudo
-=======
->>>>>>> bf785d61016863286080e4129f684addb9d466e5
+
