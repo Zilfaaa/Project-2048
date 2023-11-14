@@ -1,7 +1,5 @@
 PROJET 2048
 
-Grille créée
-
 Framework ajouté
 
 Mouvements OK
