@@ -1,4 +1,6 @@
 PROJET 2048
+Projet 2048 
+
 
 Grille créée
 
@@ -39,4 +41,5 @@ Le stocker dans le serveur
 Faire un lien entre pseudo et score
 
 stocker le score qui correspond au bon pseudo
+
 
