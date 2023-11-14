@@ -1,9 +1,8 @@
 PROJET 2048
+
 Grille créée
 
 Framework ajouté
-
-Tuiles créées 
 
 Mouvements OK
 
@@ -14,8 +13,6 @@ addition du numéro des tuiles
 Fin de la partie si la grille est pleine
 
 Partage des scores sur les reseaux sociaux
-
-Modifier le thème musical 
 
 entrer un pseudo
 
@@ -38,4 +35,3 @@ Le stocker dans le serveur
 Faire un lien entre pseudo et score
 
 stocker le score qui correspond au bon pseudo
-
