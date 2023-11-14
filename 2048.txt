@@ -1,7 +1,5 @@
 PROJET 2048
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Grille créée
 
 Framework ajouté
@@ -44,5 +42,3 @@ stocker le score qui correspond au bon pseudo
 =======
 >>>>>>> bf785d61016863286080e4129f684addb9d466e5
 =======
-addition du numéro des tuiles
->>>>>>> addition-du-nombre-des-tuiles
